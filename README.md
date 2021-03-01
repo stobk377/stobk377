@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
-	<head></head>
+	<head>
+		<style>
+			#hello {
+				color: red;
+			}
+		</style>
+	</head>
 	<body>
-		<button>Hello</button>
+		<h1 id="hello">Hello</h1>
 	</body>
 </html>
