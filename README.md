@@ -2,6 +2,6 @@
 <html>
 	<head></head>
 	<body>
-		<h1>Hello</h1>
+		<button>Hello</button>
 	</body>
 </html>
